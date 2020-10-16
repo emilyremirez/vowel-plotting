@@ -2,3 +2,4 @@ dependencies:
   - python
   - pandas
   - matplotlib
+  - seaborn
