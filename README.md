@@ -6,4 +6,7 @@ This notebook is intended to help beginning phonetics students produce plots of 
 
 vowel-plotting.ipynb is a notebook that walks through the steps of making a vowel plot
 
-demo-vowels.csv is a set of sample vowels
+demo-vowels.csv is a set of sample vowels, and Flege_94_vowels.csv is another dataset for demos.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/emilyremirez/vowel-plotting/HEAD)
+
