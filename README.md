@@ -1,12 +1,10 @@
 # vowel-plotting
 
-This is an unhelpful readme which will tell you to see the text blocks in the notebook!
+This notebook is intended to help beginning phonetics students produce plots of their own vowels. It was originally created for Ling 110, Phonetics, at UC Berkeley. If you are neither a beginning phonetics student nor a teacher of beginning phonetics students, you may still find the function defined within the notebook useful for a quick way to produce vowel plots.
 
-This notebook is intended to help beginning phonetics students produce plots of their own vowels. If you are neither a beginning phonetics student nor a teacher of beginning phonetics students, you may still find the function defined within the notebook useful for a quick way to produce nice-looking (in my opinion) vowel plots.
+This demo was added to Ling Methods Hub here: https://lingmethodshub.github.io/content/python/vowel-plotting-py/
 
-vowel-plotting.ipynb is a notebook that walks through the steps of making a vowel plot
-
-demo-vowels.csv is a set of sample vowels, and Flege_94_vowels.csv is another dataset for demos.
+[index.ipynb](https://github.com/emilyremirez/vowel-plotting/blob/main/index.ipynb) walks through the steps of making a vowel plot, including subsetting data and psychoacoustic normalizing. The repository also includes a couple of vowel datasets.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/emilyremirez/vowel-plotting/HEAD)
 
